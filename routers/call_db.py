@@ -13,8 +13,8 @@ mydb = mysql.connect(
     host="localhost",
     port="3306",
     user="root",
-    password="Jaosou*2003",
-    database="finacial_data"
+    password="________________",
+    database="________________"
 )
 mycursor = mydb.cursor()
 
